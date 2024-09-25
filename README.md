@@ -39,7 +39,7 @@
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/No-Country-simulation/c20-87-php-react.git
+   git clone https://github.com/danielpyrod/InnovaBank.git
    ```
 2. Instala las dependencias del backend:
       ```bash
